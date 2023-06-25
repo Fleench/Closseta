@@ -1,0 +1,8 @@
+C:\Users\glenn\Documents\GitHub\Closseta\bin\Debug\Closeta.exe.config
+C:\Users\glenn\Documents\GitHub\Closseta\bin\Debug\Closeta.exe
+C:\Users\glenn\Documents\GitHub\Closseta\bin\Debug\Closeta.pdb
+C:\Users\glenn\Documents\GitHub\Closseta\obj\Debug\Closeta.csproj.AssemblyReference.cache
+C:\Users\glenn\Documents\GitHub\Closseta\obj\Debug\Closeta.csproj.SuggestedBindingRedirects.cache
+C:\Users\glenn\Documents\GitHub\Closseta\obj\Debug\Closeta.csproj.CoreCompileInputs.cache
+C:\Users\glenn\Documents\GitHub\Closseta\obj\Debug\Closeta.exe
+C:\Users\glenn\Documents\GitHub\Closseta\obj\Debug\Closeta.pdb
