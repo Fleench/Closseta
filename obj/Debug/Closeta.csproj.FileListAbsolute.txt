@@ -6,3 +6,5 @@ C:\Users\glenn\Documents\GitHub\Closseta\obj\Debug\Closeta.csproj.SuggestedBindi
 C:\Users\glenn\Documents\GitHub\Closseta\obj\Debug\Closeta.csproj.CoreCompileInputs.cache
 C:\Users\glenn\Documents\GitHub\Closseta\obj\Debug\Closeta.exe
 C:\Users\glenn\Documents\GitHub\Closseta\obj\Debug\Closeta.pdb
+C:\Users\glenn\Documents\GitHub\Closseta\obj\Debug\Closeta.test.resources
+C:\Users\glenn\Documents\GitHub\Closseta\obj\Debug\Closeta.csproj.GenerateResource.cache
